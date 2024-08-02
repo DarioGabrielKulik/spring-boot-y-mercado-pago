@@ -1,0 +1,1 @@
+Agregar el token en el codigo que deje señalado, y al ejecutar el programa abrir una ventana incognita para pagar ya que no se puede auto paga. para conseguir el token dejo la url, "tus integraciones" hay que registrarse https://www.mercadopago.com.ar/developers/es/reference

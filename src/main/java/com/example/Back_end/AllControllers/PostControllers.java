@@ -27,7 +27,7 @@ public class PostControllers {
 
     @GetMapping("/")
     public String comprar(ModelMap modelo) throws MPException, MPApiException {
-        MercadoPagoConfig.setAccessToken("TEST-5275192284911339-112519-fb03f621c85e6d24411240c8f8f04546-1564723851");
+        MercadoPagoConfig.setAccessToken("agregar el token");
 
         PreferenceBackUrlsRequest backUrls =
 // ...
